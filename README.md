@@ -12,7 +12,7 @@ Here are a little more about me:
 ✨ Main Stacks:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,html,css,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,c#)](https://skillicons.dev)
 <br>
 
 
