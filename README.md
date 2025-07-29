@@ -16,7 +16,7 @@ Here are a little more about me:
 🧠 Learning:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,figma)](https://skillicons.dev)
 
 Feel free to check out my repositories!
 
