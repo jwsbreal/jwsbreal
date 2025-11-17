@@ -1,30 +1,36 @@
-## Hi there, I'm Jonathan 👋
-I've been studying technologies since 2024, starting with C#, also HTML, CSS and now, learning Javascript, Typescript, React and Figma. I'm building a solid foundation in Front-end technologies to become a great professional. 
+## Olá. Sou o Jonathan 👋
+
+- 🏃🏿‍♂️ Estou em transição de carreria para a área de Quality Assurance.
+  
+# 🧪 Portfólio de Quality Assurance  
+Este repositório apresenta meu portfólio como Analista de QA, incluindo documentação, mapas mentais, exemplos de testes e boas práticas utilizadas no meu processo de garantia de qualidade.
 
 
-Here are a little more about me:
+---
 
-- 🏃🏿‍♂️ I'm in a career transition!
-- 💻 Also participating in the DIO bootcamp - data analysis.
-- 🔎 Searching for my first job opportunity.
+
+## 🧠 Mapa Mental: Quality Assurance (Whimsical)
+Este mapa mental resume os principais pilares de QA, incluindo QA vs QC, tipos de testes, ciclo de vida de bugs, processos, métricas, entre outros conceitos importantes.
+
+🔗 **Acesse o mapa mental completo:**  
+👉 https://whimsical.com/quality-assurance-RMahxTcFycRuWu5VPu7kQo
+
+
+#
 
 
 ✨ Main Stacks:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cypress,postman)](https://skillicons.dev)
 <br>
 
 
-🧠 Learning:
+🧠 Aprendendo:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,githubactions)](https://skillicons.dev)
 
+#
 
-
-Feel free to check out my repositories!
-
-<!--
-**jwsbreal/jwsbreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Fique a vontade para conferir o meu repositório ✨
