@@ -1,12 +1,8 @@
-## Olá. Sou o Jonathan 👋
-
-- 🏃🏿‍♂️ Estou em transição de carreria para a área de Quality Assurance.
-  
 # 🧪 Portfólio de Quality Assurance  
-Este repositório apresenta meu portfólio como Analista de QA, incluindo documentação, mapas mentais, exemplos de testes e boas práticas utilizadas no meu processo de garantia de qualidade.
 
+Olá. Sou o Jonathan 👋
 
----
+Estou em transição de carreria para a área de Quality Assurance e este repositório apresenta meu portfólio como Analista de QA, incluindo documentação, mapas mentais, exemplos de testes e boas práticas utilizadas no meu processo de garantia de qualidade.
 
 
 ## 🧠 Mapa Mental: Quality Assurance (Whimsical)
