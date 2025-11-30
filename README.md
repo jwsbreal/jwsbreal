@@ -10,7 +10,13 @@ Estou em transição de carreria para a área de Quality Assurance e este reposi
 Este mapa mental resume os principais pilares de QA, incluindo QA vs QC, tipos de testes, ciclo de vida de bugs, processos, métricas, entre outros conceitos importantes.
 
 🔗 **Acesse o mapa mental completo:**  
-👉 https://whimsical.com/quality-assurance-RMahxTcFycRuWu5VPu7kQo
+
+#
+
+### 🧠 Cronograma de Estudos: Quality Assurance (Notion)
+
+🔗 **Acesse o mapa mental completo:**  
+👉 https://www.notion.so/CRONOGRAMA-2aef58c619e9803b8da6d8471763977b?source=copy_link
 
 #
 
