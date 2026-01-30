@@ -1,28 +1,29 @@
-# 🧪 Portfólio de Quality Assurance  
+## Introduction
 
-Olá. Sou o Jonathan 👋
+<div style="font-size:17px; line-height:1.6">
 
-Estou em transição de carreria para a área de Quality Assurance e este repositório apresenta meu portfólio como Analista de QA, incluindo documentação, mapas mentais, exemplos de testes e boas práticas utilizadas no meu processo de garantia de qualidade.
+Hey, my name is **Jonathan**. I am transitioning my career to the Quality Assurance field, and this repository showcases my portfolio as a QA Analyst, including documentation, mind maps, test examples, and best practices used in my quality assurance process.
 
-#
+I've been learning web and mobile tests, to cover **UI tests, API tests and automated tests**,  
+using tools like **Cypress, Playwright and Postman**.  
 
-### 🧠 Mapa Mental: Quality Assurance (Whimsical)
-Este mapa mental resume os principais pilares de QA, incluindo QA vs QC, tipos de testes, ciclo de vida de bugs, processos, métricas, entre outros conceitos importantes.
+</div>
 
-🔗 **Acesse o mapa mental completo:**  
+---
 
-#
+## Tecnologies & Tools
 
-### 🧠 Cronograma de Estudos: Quality Assurance (Notion)
+![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-🔗 **Acesse o mapa mental completo:**  
-👉 https://www.notion.so/CRONOGRAMA-2aef58c619e9803b8da6d8471763977b?source=copy_link
+---
 
-#
+## Contact
 
-[![My Skills](https://skillicons.dev/icons?i=js,cypress,postman,py,selenium,githubactions&theme=light)](https://skillicons.dev)
-<br>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-de-abreu-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deabreu92.j@gmail.com)
 
 
-Fique a vontade para conferir o meu repositório ✨🧠
