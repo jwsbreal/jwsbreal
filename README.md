@@ -2,10 +2,9 @@
 
 <div style="font-size:17px; line-height:1.6">
 
-Hey, my name is **Jonathan**. I am transitioning my career to the Quality Assurance field, and this repository showcases my portfolio as a QA Analyst, including documentation, mind maps, test examples, and best practices used in my quality assurance process.
+I am a Software Engineering Undergraduate (1st semester) with a focus on Python development, Java and Javascript basics.
 
-I've been learning web and mobile tests, to cover **UI tests, API tests and automated tests**,  
-using tools like **Cypress, Playwright and Postman**.  
+I have study experience in manual test execution, exploratory testing, automated testing using Cypress, API testing with Postman, bug reporting, test documentation, and QA best practices. 
 
 </div>
 
